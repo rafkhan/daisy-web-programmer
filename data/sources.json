@@ -2,7 +2,7 @@
     {
         "name": "Okay Synthesizer", 
         "data_url": "https://raw.githubusercontent.com/rafkhan/daisy-web-programmer/gh-pages/data/device_firmware_list.json",
-        "repo_url": "https://raw.githubusercontent.com/rafkhan/daisy-web-programmer/",
+        "repo_url": "https://github.com/rafkhan/daisy-web-programmer/",
         "bootloader_url": "https://raw.githubusercontent.com/rafkhan/daisy-web-programmer/gh-pages/data/dsy_bootloader_v5_4.bin"
     }
 ]
