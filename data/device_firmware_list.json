@@ -2,7 +2,7 @@
   {
     "name": "Lowstepper v1.0",
     "platform": "Lowstepper",
-    "filepath": "https://github.com/rafkhan/daisy-web-programmer/raw/gh-pages/data/firmwares/lowstepper/lowstepper_v1_0.bin",
+    "filepath": "raw/gh-pages/data/firmwares/lowstepper/lowstepper_v1_0.bin",
     "description": "no desc available yet",
     "url": "https://raw.githubusercontent.com/rafkhan/lowstepper/master/README.md"
   }
