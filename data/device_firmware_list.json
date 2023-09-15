@@ -2,7 +2,7 @@
   {
     "name": "Lowstepper v1.0",
     "platform": "Lowstepper",
-    "filepath": "raw/gh-pages/data/firmwares/lowstepper/lowstepper_v1_0.bin",
+    "filepath": "/lowstepper/lowstepper_v1_0.bin",
     "description": "no desc available yet",
     "url": "https://raw.githubusercontent.com/rafkhan/lowstepper/master/README.md"
   }
